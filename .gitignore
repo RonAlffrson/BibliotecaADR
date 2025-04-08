@@ -1,0 +1,7 @@
+.venv/
+data/
+db.sqlite3
+docker-compose.yml
+
+BibliotecaADR/
+.env
